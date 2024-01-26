@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioypaulino&show_icons=true&title_color=FF79C6&text_color=F8F8F2&bg_color=282A36" alt="" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioypaulino&show_icons=true&title_color=FF79C6&text_color=F8F8F2&bg_color=282A36&border_color=282A36" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioypaulino&layout=compact&hide_border=true&title_color=FF79C6&text_color=F8F8F2&bg_color=282A36" />
 </div><br>
 
@@ -29,6 +29,9 @@
 
 
 ### 𝗦𝘁𝘂𝗱𝘆𝗶𝗻𝗴:
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Azure]()&nbsp;
+
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)&nbsp;
 ![Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)&nbsp;
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)&nbsp;
