@@ -15,6 +15,8 @@
 
 
 ### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
+<a href="https://caioypaulino.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23AD0C6D?style=for-the-badge&Color=white" target="_blank"></a>
+<a href="https://drive.google.com/file/d/18QadlWGGBPPsIX5kBchiBKu4ig7uFe4G/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%23103B13?style=for-the-badge&Color=white" target="_blank"></a>
 <a href = "mailto:caiohenriquepaulino@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caio-paulino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 
